@@ -1,0 +1,15 @@
+D:\Term2\C#\Learn-CSharp\userinput\obj\Debug\net8.0\userinput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Term2\C#\Learn-CSharp\userinput\obj\Debug\net8.0\userinput.AssemblyInfoInputs.cache
+D:\Term2\C#\Learn-CSharp\userinput\obj\Debug\net8.0\userinput.AssemblyInfo.cs
+D:\Term2\C#\Learn-CSharp\userinput\obj\Debug\net8.0\userinput.csproj.CoreCompileInputs.cache
+D:\Term2\C#\Learn-CSharp\userinput\obj\Debug\net8.0\userinput.sourcelink.json
+D:\Term2\C#\Learn-CSharp\userinput\bin\Debug\net8.0\userinput.exe
+D:\Term2\C#\Learn-CSharp\userinput\bin\Debug\net8.0\userinput.deps.json
+D:\Term2\C#\Learn-CSharp\userinput\bin\Debug\net8.0\userinput.runtimeconfig.json
+D:\Term2\C#\Learn-CSharp\userinput\bin\Debug\net8.0\userinput.dll
+D:\Term2\C#\Learn-CSharp\userinput\bin\Debug\net8.0\userinput.pdb
+D:\Term2\C#\Learn-CSharp\userinput\obj\Debug\net8.0\userinput.dll
+D:\Term2\C#\Learn-CSharp\userinput\obj\Debug\net8.0\refint\userinput.dll
+D:\Term2\C#\Learn-CSharp\userinput\obj\Debug\net8.0\userinput.pdb
+D:\Term2\C#\Learn-CSharp\userinput\obj\Debug\net8.0\userinput.genruntimeconfig.cache
+D:\Term2\C#\Learn-CSharp\userinput\obj\Debug\net8.0\ref\userinput.dll
