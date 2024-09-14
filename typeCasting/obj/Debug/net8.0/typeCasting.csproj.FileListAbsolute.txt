@@ -1,0 +1,15 @@
+D:\Term2\C#\Learn-CSharp\typeCasting\bin\Debug\net8.0\typeCasting.exe
+D:\Term2\C#\Learn-CSharp\typeCasting\bin\Debug\net8.0\typeCasting.deps.json
+D:\Term2\C#\Learn-CSharp\typeCasting\bin\Debug\net8.0\typeCasting.runtimeconfig.json
+D:\Term2\C#\Learn-CSharp\typeCasting\bin\Debug\net8.0\typeCasting.dll
+D:\Term2\C#\Learn-CSharp\typeCasting\bin\Debug\net8.0\typeCasting.pdb
+D:\Term2\C#\Learn-CSharp\typeCasting\obj\Debug\net8.0\typeCasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Term2\C#\Learn-CSharp\typeCasting\obj\Debug\net8.0\typeCasting.AssemblyInfoInputs.cache
+D:\Term2\C#\Learn-CSharp\typeCasting\obj\Debug\net8.0\typeCasting.AssemblyInfo.cs
+D:\Term2\C#\Learn-CSharp\typeCasting\obj\Debug\net8.0\typeCasting.csproj.CoreCompileInputs.cache
+D:\Term2\C#\Learn-CSharp\typeCasting\obj\Debug\net8.0\typeCasting.sourcelink.json
+D:\Term2\C#\Learn-CSharp\typeCasting\obj\Debug\net8.0\typeCasting.dll
+D:\Term2\C#\Learn-CSharp\typeCasting\obj\Debug\net8.0\refint\typeCasting.dll
+D:\Term2\C#\Learn-CSharp\typeCasting\obj\Debug\net8.0\typeCasting.pdb
+D:\Term2\C#\Learn-CSharp\typeCasting\obj\Debug\net8.0\typeCasting.genruntimeconfig.cache
+D:\Term2\C#\Learn-CSharp\typeCasting\obj\Debug\net8.0\ref\typeCasting.dll
