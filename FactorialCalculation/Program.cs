@@ -14,9 +14,8 @@ public class FactorialCalculation
     public static BigInteger CalculateFactorial(int n)
     {
         if (n < 0)
-        {
-            throw new Exception("Factorial of negative number is not possible");
-        }
+            throw new ArgumentException("Factorial of negative number is not possible");
+        
 
         BigInteger result = 1;
         for (int i = 1; i <= n; i++)
