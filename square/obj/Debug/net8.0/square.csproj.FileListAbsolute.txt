@@ -1,0 +1,15 @@
+D:\Term2\C#\Learn-CSharp\square\bin\Debug\net8.0\square.exe
+D:\Term2\C#\Learn-CSharp\square\bin\Debug\net8.0\square.deps.json
+D:\Term2\C#\Learn-CSharp\square\bin\Debug\net8.0\square.runtimeconfig.json
+D:\Term2\C#\Learn-CSharp\square\bin\Debug\net8.0\square.dll
+D:\Term2\C#\Learn-CSharp\square\bin\Debug\net8.0\square.pdb
+D:\Term2\C#\Learn-CSharp\square\obj\Debug\net8.0\square.GeneratedMSBuildEditorConfig.editorconfig
+D:\Term2\C#\Learn-CSharp\square\obj\Debug\net8.0\square.AssemblyInfoInputs.cache
+D:\Term2\C#\Learn-CSharp\square\obj\Debug\net8.0\square.AssemblyInfo.cs
+D:\Term2\C#\Learn-CSharp\square\obj\Debug\net8.0\square.csproj.CoreCompileInputs.cache
+D:\Term2\C#\Learn-CSharp\square\obj\Debug\net8.0\square.sourcelink.json
+D:\Term2\C#\Learn-CSharp\square\obj\Debug\net8.0\square.dll
+D:\Term2\C#\Learn-CSharp\square\obj\Debug\net8.0\refint\square.dll
+D:\Term2\C#\Learn-CSharp\square\obj\Debug\net8.0\square.pdb
+D:\Term2\C#\Learn-CSharp\square\obj\Debug\net8.0\square.genruntimeconfig.cache
+D:\Term2\C#\Learn-CSharp\square\obj\Debug\net8.0\ref\square.dll
