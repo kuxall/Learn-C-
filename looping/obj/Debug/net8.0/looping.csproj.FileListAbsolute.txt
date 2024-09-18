@@ -1,0 +1,15 @@
+D:\Term2\C#\Learn-CSharp\looping\bin\Debug\net8.0\looping.exe
+D:\Term2\C#\Learn-CSharp\looping\bin\Debug\net8.0\looping.deps.json
+D:\Term2\C#\Learn-CSharp\looping\bin\Debug\net8.0\looping.runtimeconfig.json
+D:\Term2\C#\Learn-CSharp\looping\bin\Debug\net8.0\looping.dll
+D:\Term2\C#\Learn-CSharp\looping\bin\Debug\net8.0\looping.pdb
+D:\Term2\C#\Learn-CSharp\looping\obj\Debug\net8.0\looping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Term2\C#\Learn-CSharp\looping\obj\Debug\net8.0\looping.AssemblyInfoInputs.cache
+D:\Term2\C#\Learn-CSharp\looping\obj\Debug\net8.0\looping.AssemblyInfo.cs
+D:\Term2\C#\Learn-CSharp\looping\obj\Debug\net8.0\looping.csproj.CoreCompileInputs.cache
+D:\Term2\C#\Learn-CSharp\looping\obj\Debug\net8.0\looping.sourcelink.json
+D:\Term2\C#\Learn-CSharp\looping\obj\Debug\net8.0\looping.dll
+D:\Term2\C#\Learn-CSharp\looping\obj\Debug\net8.0\refint\looping.dll
+D:\Term2\C#\Learn-CSharp\looping\obj\Debug\net8.0\looping.pdb
+D:\Term2\C#\Learn-CSharp\looping\obj\Debug\net8.0\looping.genruntimeconfig.cache
+D:\Term2\C#\Learn-CSharp\looping\obj\Debug\net8.0\ref\looping.dll
