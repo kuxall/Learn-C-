@@ -1,0 +1,15 @@
+D:\Term2\C#\Learn-CSharp\FactorialCalculation\bin\Debug\net8.0\FactorialCalculation.exe
+D:\Term2\C#\Learn-CSharp\FactorialCalculation\bin\Debug\net8.0\FactorialCalculation.deps.json
+D:\Term2\C#\Learn-CSharp\FactorialCalculation\bin\Debug\net8.0\FactorialCalculation.runtimeconfig.json
+D:\Term2\C#\Learn-CSharp\FactorialCalculation\bin\Debug\net8.0\FactorialCalculation.dll
+D:\Term2\C#\Learn-CSharp\FactorialCalculation\bin\Debug\net8.0\FactorialCalculation.pdb
+D:\Term2\C#\Learn-CSharp\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Term2\C#\Learn-CSharp\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.AssemblyInfoInputs.cache
+D:\Term2\C#\Learn-CSharp\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.AssemblyInfo.cs
+D:\Term2\C#\Learn-CSharp\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.csproj.CoreCompileInputs.cache
+D:\Term2\C#\Learn-CSharp\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.sourcelink.json
+D:\Term2\C#\Learn-CSharp\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.dll
+D:\Term2\C#\Learn-CSharp\FactorialCalculation\obj\Debug\net8.0\refint\FactorialCalculation.dll
+D:\Term2\C#\Learn-CSharp\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.pdb
+D:\Term2\C#\Learn-CSharp\FactorialCalculation\obj\Debug\net8.0\FactorialCalculation.genruntimeconfig.cache
+D:\Term2\C#\Learn-CSharp\FactorialCalculation\obj\Debug\net8.0\ref\FactorialCalculation.dll
