@@ -1,0 +1,15 @@
+D:\Term2\C#\Learn-CSharp\largest\bin\Debug\net8.0\largest.exe
+D:\Term2\C#\Learn-CSharp\largest\bin\Debug\net8.0\largest.deps.json
+D:\Term2\C#\Learn-CSharp\largest\bin\Debug\net8.0\largest.runtimeconfig.json
+D:\Term2\C#\Learn-CSharp\largest\bin\Debug\net8.0\largest.dll
+D:\Term2\C#\Learn-CSharp\largest\bin\Debug\net8.0\largest.pdb
+D:\Term2\C#\Learn-CSharp\largest\obj\Debug\net8.0\largest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Term2\C#\Learn-CSharp\largest\obj\Debug\net8.0\largest.AssemblyInfoInputs.cache
+D:\Term2\C#\Learn-CSharp\largest\obj\Debug\net8.0\largest.AssemblyInfo.cs
+D:\Term2\C#\Learn-CSharp\largest\obj\Debug\net8.0\largest.csproj.CoreCompileInputs.cache
+D:\Term2\C#\Learn-CSharp\largest\obj\Debug\net8.0\largest.sourcelink.json
+D:\Term2\C#\Learn-CSharp\largest\obj\Debug\net8.0\largest.dll
+D:\Term2\C#\Learn-CSharp\largest\obj\Debug\net8.0\refint\largest.dll
+D:\Term2\C#\Learn-CSharp\largest\obj\Debug\net8.0\largest.pdb
+D:\Term2\C#\Learn-CSharp\largest\obj\Debug\net8.0\largest.genruntimeconfig.cache
+D:\Term2\C#\Learn-CSharp\largest\obj\Debug\net8.0\ref\largest.dll
