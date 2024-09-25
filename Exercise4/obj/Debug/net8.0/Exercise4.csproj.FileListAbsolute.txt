@@ -1,0 +1,15 @@
+D:\Term2\C#\Learn-CSharp\Exercise4\bin\Debug\net8.0\Exercise4.exe
+D:\Term2\C#\Learn-CSharp\Exercise4\bin\Debug\net8.0\Exercise4.deps.json
+D:\Term2\C#\Learn-CSharp\Exercise4\bin\Debug\net8.0\Exercise4.runtimeconfig.json
+D:\Term2\C#\Learn-CSharp\Exercise4\bin\Debug\net8.0\Exercise4.dll
+D:\Term2\C#\Learn-CSharp\Exercise4\bin\Debug\net8.0\Exercise4.pdb
+D:\Term2\C#\Learn-CSharp\Exercise4\obj\Debug\net8.0\Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Term2\C#\Learn-CSharp\Exercise4\obj\Debug\net8.0\Exercise4.AssemblyInfoInputs.cache
+D:\Term2\C#\Learn-CSharp\Exercise4\obj\Debug\net8.0\Exercise4.AssemblyInfo.cs
+D:\Term2\C#\Learn-CSharp\Exercise4\obj\Debug\net8.0\Exercise4.csproj.CoreCompileInputs.cache
+D:\Term2\C#\Learn-CSharp\Exercise4\obj\Debug\net8.0\Exercise4.sourcelink.json
+D:\Term2\C#\Learn-CSharp\Exercise4\obj\Debug\net8.0\Exercise4.dll
+D:\Term2\C#\Learn-CSharp\Exercise4\obj\Debug\net8.0\refint\Exercise4.dll
+D:\Term2\C#\Learn-CSharp\Exercise4\obj\Debug\net8.0\Exercise4.pdb
+D:\Term2\C#\Learn-CSharp\Exercise4\obj\Debug\net8.0\Exercise4.genruntimeconfig.cache
+D:\Term2\C#\Learn-CSharp\Exercise4\obj\Debug\net8.0\ref\Exercise4.dll
