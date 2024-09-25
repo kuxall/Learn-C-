@@ -1,0 +1,15 @@
+D:\Term2\C#\Learn-CSharp\vowelconsonant\bin\Debug\net8.0\vowelconsonant.exe
+D:\Term2\C#\Learn-CSharp\vowelconsonant\bin\Debug\net8.0\vowelconsonant.deps.json
+D:\Term2\C#\Learn-CSharp\vowelconsonant\bin\Debug\net8.0\vowelconsonant.runtimeconfig.json
+D:\Term2\C#\Learn-CSharp\vowelconsonant\bin\Debug\net8.0\vowelconsonant.dll
+D:\Term2\C#\Learn-CSharp\vowelconsonant\bin\Debug\net8.0\vowelconsonant.pdb
+D:\Term2\C#\Learn-CSharp\vowelconsonant\obj\Debug\net8.0\vowelconsonant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Term2\C#\Learn-CSharp\vowelconsonant\obj\Debug\net8.0\vowelconsonant.AssemblyInfoInputs.cache
+D:\Term2\C#\Learn-CSharp\vowelconsonant\obj\Debug\net8.0\vowelconsonant.AssemblyInfo.cs
+D:\Term2\C#\Learn-CSharp\vowelconsonant\obj\Debug\net8.0\vowelconsonant.csproj.CoreCompileInputs.cache
+D:\Term2\C#\Learn-CSharp\vowelconsonant\obj\Debug\net8.0\vowelconsonant.sourcelink.json
+D:\Term2\C#\Learn-CSharp\vowelconsonant\obj\Debug\net8.0\vowelconsonant.dll
+D:\Term2\C#\Learn-CSharp\vowelconsonant\obj\Debug\net8.0\refint\vowelconsonant.dll
+D:\Term2\C#\Learn-CSharp\vowelconsonant\obj\Debug\net8.0\vowelconsonant.pdb
+D:\Term2\C#\Learn-CSharp\vowelconsonant\obj\Debug\net8.0\vowelconsonant.genruntimeconfig.cache
+D:\Term2\C#\Learn-CSharp\vowelconsonant\obj\Debug\net8.0\ref\vowelconsonant.dll
