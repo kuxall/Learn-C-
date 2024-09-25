@@ -1,0 +1,15 @@
+D:\Term2\C#\Learn-CSharp\Exercise10\obj\Debug\net8.0\Exercise10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Term2\C#\Learn-CSharp\Exercise10\obj\Debug\net8.0\Exercise10.AssemblyInfoInputs.cache
+D:\Term2\C#\Learn-CSharp\Exercise10\obj\Debug\net8.0\Exercise10.AssemblyInfo.cs
+D:\Term2\C#\Learn-CSharp\Exercise10\obj\Debug\net8.0\Exercise10.csproj.CoreCompileInputs.cache
+D:\Term2\C#\Learn-CSharp\Exercise10\obj\Debug\net8.0\Exercise10.sourcelink.json
+D:\Term2\C#\Learn-CSharp\Exercise10\bin\Debug\net8.0\Exercise10.exe
+D:\Term2\C#\Learn-CSharp\Exercise10\bin\Debug\net8.0\Exercise10.deps.json
+D:\Term2\C#\Learn-CSharp\Exercise10\bin\Debug\net8.0\Exercise10.runtimeconfig.json
+D:\Term2\C#\Learn-CSharp\Exercise10\bin\Debug\net8.0\Exercise10.dll
+D:\Term2\C#\Learn-CSharp\Exercise10\bin\Debug\net8.0\Exercise10.pdb
+D:\Term2\C#\Learn-CSharp\Exercise10\obj\Debug\net8.0\Exercise10.dll
+D:\Term2\C#\Learn-CSharp\Exercise10\obj\Debug\net8.0\refint\Exercise10.dll
+D:\Term2\C#\Learn-CSharp\Exercise10\obj\Debug\net8.0\Exercise10.pdb
+D:\Term2\C#\Learn-CSharp\Exercise10\obj\Debug\net8.0\Exercise10.genruntimeconfig.cache
+D:\Term2\C#\Learn-CSharp\Exercise10\obj\Debug\net8.0\ref\Exercise10.dll
