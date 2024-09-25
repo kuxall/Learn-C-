@@ -1,0 +1,15 @@
+D:\Term2\C#\Learn-CSharp\Exercise19\obj\Debug\net8.0\Exercise19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Term2\C#\Learn-CSharp\Exercise19\obj\Debug\net8.0\Exercise19.AssemblyInfoInputs.cache
+D:\Term2\C#\Learn-CSharp\Exercise19\obj\Debug\net8.0\Exercise19.AssemblyInfo.cs
+D:\Term2\C#\Learn-CSharp\Exercise19\obj\Debug\net8.0\Exercise19.csproj.CoreCompileInputs.cache
+D:\Term2\C#\Learn-CSharp\Exercise19\obj\Debug\net8.0\Exercise19.sourcelink.json
+D:\Term2\C#\Learn-CSharp\Exercise19\bin\Debug\net8.0\Exercise19.exe
+D:\Term2\C#\Learn-CSharp\Exercise19\bin\Debug\net8.0\Exercise19.deps.json
+D:\Term2\C#\Learn-CSharp\Exercise19\bin\Debug\net8.0\Exercise19.runtimeconfig.json
+D:\Term2\C#\Learn-CSharp\Exercise19\bin\Debug\net8.0\Exercise19.dll
+D:\Term2\C#\Learn-CSharp\Exercise19\bin\Debug\net8.0\Exercise19.pdb
+D:\Term2\C#\Learn-CSharp\Exercise19\obj\Debug\net8.0\Exercise19.dll
+D:\Term2\C#\Learn-CSharp\Exercise19\obj\Debug\net8.0\refint\Exercise19.dll
+D:\Term2\C#\Learn-CSharp\Exercise19\obj\Debug\net8.0\Exercise19.pdb
+D:\Term2\C#\Learn-CSharp\Exercise19\obj\Debug\net8.0\Exercise19.genruntimeconfig.cache
+D:\Term2\C#\Learn-CSharp\Exercise19\obj\Debug\net8.0\ref\Exercise19.dll
