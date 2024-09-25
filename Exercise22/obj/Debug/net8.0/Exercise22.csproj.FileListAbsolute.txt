@@ -1,0 +1,15 @@
+D:\Term2\C#\Learn-CSharp\Exercise22\bin\Debug\net8.0\Exercise22.exe
+D:\Term2\C#\Learn-CSharp\Exercise22\bin\Debug\net8.0\Exercise22.deps.json
+D:\Term2\C#\Learn-CSharp\Exercise22\bin\Debug\net8.0\Exercise22.runtimeconfig.json
+D:\Term2\C#\Learn-CSharp\Exercise22\bin\Debug\net8.0\Exercise22.dll
+D:\Term2\C#\Learn-CSharp\Exercise22\bin\Debug\net8.0\Exercise22.pdb
+D:\Term2\C#\Learn-CSharp\Exercise22\obj\Debug\net8.0\Exercise22.GeneratedMSBuildEditorConfig.editorconfig
+D:\Term2\C#\Learn-CSharp\Exercise22\obj\Debug\net8.0\Exercise22.AssemblyInfoInputs.cache
+D:\Term2\C#\Learn-CSharp\Exercise22\obj\Debug\net8.0\Exercise22.AssemblyInfo.cs
+D:\Term2\C#\Learn-CSharp\Exercise22\obj\Debug\net8.0\Exercise22.csproj.CoreCompileInputs.cache
+D:\Term2\C#\Learn-CSharp\Exercise22\obj\Debug\net8.0\Exercise22.sourcelink.json
+D:\Term2\C#\Learn-CSharp\Exercise22\obj\Debug\net8.0\Exercise22.dll
+D:\Term2\C#\Learn-CSharp\Exercise22\obj\Debug\net8.0\refint\Exercise22.dll
+D:\Term2\C#\Learn-CSharp\Exercise22\obj\Debug\net8.0\Exercise22.pdb
+D:\Term2\C#\Learn-CSharp\Exercise22\obj\Debug\net8.0\Exercise22.genruntimeconfig.cache
+D:\Term2\C#\Learn-CSharp\Exercise22\obj\Debug\net8.0\ref\Exercise22.dll
