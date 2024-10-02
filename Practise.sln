@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practise", "Practise.csproj", "{DB51DBA5-F74F-453B-8506-88E79EFFB298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDImessionalArrayEg", "..\MultiDImessionalArrayEg\MultiDImessionalArrayEg.csproj", "{92BF6E36-C688-47A1-BF3F-D0BA35E58539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB51DBA5-F74F-453B-8506-88E79EFFB298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB51DBA5-F74F-453B-8506-88E79EFFB298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB51DBA5-F74F-453B-8506-88E79EFFB298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB51DBA5-F74F-453B-8506-88E79EFFB298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92BF6E36-C688-47A1-BF3F-D0BA35E58539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92BF6E36-C688-47A1-BF3F-D0BA35E58539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92BF6E36-C688-47A1-BF3F-D0BA35E58539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92BF6E36-C688-47A1-BF3F-D0BA35E58539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF0057AA-C769-46BE-B94D-C8224840D7AA}
+	EndGlobalSection
+EndGlobal
